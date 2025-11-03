@@ -2,7 +2,7 @@
 
     //Union Type 
     type FrontendDev = "ReactJs"|"NextJs"
-    type FullstackDev = "frontendDeveloper"|""       
+    type FullstackDev = "frontendDeveloper"|"BackendDeveloper"|"MERNStackDeveloper"       
 
 
 }

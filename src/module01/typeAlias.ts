@@ -22,6 +22,12 @@
     gender: "Male",
     adress: "Chittagong",
   };
+  const user3: Student = {
+    name: "Rakib",
+    age: 28,
+    gender: "Male",
+    adress: "Dhaka, Dhanmondi",
+  };
 
   // function Alias
 
